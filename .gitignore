@@ -3,3 +3,4 @@ chromedriver
 login_info.py
 fastapi_dec.py
 experimentation.py
+.DS_Store
