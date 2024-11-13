@@ -1,0 +1,1 @@
+chromedriver can be stored either locally here or in a designated folder in your system
