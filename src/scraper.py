@@ -52,7 +52,7 @@ def main():
             link = browser.current_url
             links.append(link)
             sleep(1)
-            stock_availability.append("Available")
+            stock_availability.append("Available") #just for this case, since all the products on that website are available
         page_num = page_num + 1
 
     data = {"Product Name": names, "Price": prices, "Product Link": links, "Stock Availability": stock_availability}
